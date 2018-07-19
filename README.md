@@ -1,1 +1,1 @@
-# mentor-meetup-second
+# mentor-meetup-assignment
